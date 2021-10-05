@@ -6,4 +6,4 @@
 3. chmod +x hello_world
 4. ./hello_world
 
-![image](https://user-images.githubusercontent.com/86436966/136079123-12bc5253-eb15-4e11-9798-af0983374b5b.png)
+  ![image](https://user-images.githubusercontent.com/86436966/136079123-12bc5253-eb15-4e11-9798-af0983374b5b.png)
