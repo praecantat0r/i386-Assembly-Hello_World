@@ -1,5 +1,6 @@
 # i386-Assembly-Hello_World
 
+- just wanted to test out assembly a bit so here is hello world in x86 32-bit assembly!
 ![image](https://user-images.githubusercontent.com/86436966/136079222-5a750c3c-81f9-4ab6-ac87-46ca9577cad8.png)
 
 ## How do we run this thing?
