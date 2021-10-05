@@ -1,5 +1,7 @@
 # i386-Assembly-Hello_World
 
+![image](https://user-images.githubusercontent.com/86436966/136079222-5a750c3c-81f9-4ab6-ac87-46ca9577cad8.png)
+
 ## How do we run this thing?
 1. nasm -f elf32 -o hello_world.o hello_world.asm
 2. ld -m elf_i386 -o hello_world hello_world.o
